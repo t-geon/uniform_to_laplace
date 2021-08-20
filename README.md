@@ -1,5 +1,7 @@
 # uniform_to_laplace
 
+This is the code I wrote through visual studio 2019 on windows.
+
 - Explanation
 This code converts a uniform distribution random variable to a laplace distribution random variable.
 
